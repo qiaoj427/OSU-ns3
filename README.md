@@ -1,2 +1,2 @@
 # OSU-ns3
-OSU项目ns3仿真模块
+ns3源码及OSU项目仿真
